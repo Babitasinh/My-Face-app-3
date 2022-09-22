@@ -1,0 +1,14 @@
+.heading{
+    width: 80%; 
+    font-size:  70px;
+}
+
+#camera{
+    border: 3px solid lightpink;
+    width: 350px;
+    height: 350px;
+}
+
+.name_object{
+    color: red;
+}
